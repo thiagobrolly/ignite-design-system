@@ -1,0 +1,10 @@
+{
+  "name": "@quimera-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "@thiago_brolly/eslint-config": "^1.1.1",
+    "eslint": "^8.25.0"
+  }
+}
