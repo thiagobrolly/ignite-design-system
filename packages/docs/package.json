@@ -29,6 +29,7 @@
     "@quimera-ui/react": "*",
     "@quimera-ui/tokens": "*",
     "@quimera-ui/ts-config": "*",
+    "@storybook/addon-a11y": "^6.5.13",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
